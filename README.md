@@ -6,10 +6,10 @@ public class usalma {
         Scanner input= new Scanner(System.in);
 
         int n ,r,total=1;
-        System.out.println("Taban sayıyı Giriniz: ");
+        System.out.println("Taban Sayıyı Giriniz: ");
         n=input.nextInt();
 
-        System.out.println("üs sayısını giriniz:");
+        System.out.println("Üs Sayısını Giriniz: ");
         r=input.nextInt();
 
         for (int i=1; i<=r;i++){
