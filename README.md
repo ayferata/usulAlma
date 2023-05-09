@@ -4,7 +4,6 @@ public class usalma {
     public static void main (String[]arsg){
 
         Scanner input= new Scanner(System.in);
-
         int n ,r,total=1;
         System.out.println("Taban Sayıyı Giriniz: ");
         n=input.nextInt();
