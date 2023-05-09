@@ -13,12 +13,9 @@ public class usalma {
         r=input.nextInt();
 
         for (int i=1; i<=r;i++){
-            total*=n; // n'in total kadar kendini çarpması durumu
-
+            total*=n; 
         }
-        System.out.println("Cevap:"+total);
-
-
+        System.out.println("Cevap: "+total);
 
     }
 }
