@@ -6,7 +6,7 @@ public class usalma {
         Scanner input= new Scanner(System.in);
 
         int n ,r,total=1;
-        System.out.println("taban sayıyı giriniz:");
+        System.out.println("Taban sayıyı Giriniz: ");
         n=input.nextInt();
 
         System.out.println("üs sayısını giriniz:");
